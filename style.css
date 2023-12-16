@@ -1,0 +1,16 @@
+body {
+    color: black;
+    background-color: white;
+}
+h1 {
+    font-size: 30px;             
+    border-bottom-width: 10px;
+    border-bottom-style: solid; 
+    border-bottom-color: blue;  
+}
+h2 {
+    font-size: 24px;            
+    border-bottom-width: 10px;  
+    border-bottom-style: solid; 
+    border-bottom-color: green; 
+}
